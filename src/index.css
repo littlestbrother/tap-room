@@ -1,0 +1,17 @@
+/* buttons */
+button, input[type="button"], input[type="submit"] { 
+    border-radius: 5px;
+    border-color: transparent;
+    margin: 2px;
+    padding: 8px;
+    background-color: #4F9DA6;
+    color: white;
+}
+
+input[type="text"], input[type="number"]{
+    border-radius: 5px;
+    border-color: lightgray;
+    border-width: 1px;
+    margin: 2px;
+    padding: 8px;
+}
