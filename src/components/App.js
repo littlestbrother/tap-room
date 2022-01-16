@@ -4,6 +4,8 @@ import DrinkControl from "./DrinkControl";
 function App() {
   return (
     <React.Fragment>
+      <Header />
+      <DrinkControl />
     </React.Fragment>
   );
 }
