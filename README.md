@@ -6,7 +6,7 @@
 
 ## **Description**
 
-*This web application helps a hypothetical business owner manage their beverage inventory.*
+*This web application helps a hypothetical business owner manage their beverage inventory whilst also imitating a virtual storefront at the same time.*
 
 # Instructions
 
